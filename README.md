@@ -1,1 +1,1 @@
-# kubernetes-notes
+# k8-namespace
